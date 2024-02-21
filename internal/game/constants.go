@@ -55,27 +55,27 @@ const (
   PROMPT = "What do you want to do?  "
 
   BANNER = `
-m     m mmmmmm mmmmm  mmmmmmm     m  mmmm  m      mmmmmm
-#  #  # #      #   "# #     #  #  # m"  "m #      #     
-" #"# # #mmmmm #mmmm" #mmmmm" #"# # #    # #      #mmmmm
- ## ##" #      #   "m #      ## ##" #    # #      #     
- #   #  #mmmmm #    " #mmmmm #   #   #mm#  #mmmmm #     
-                                                        
-                                                        
-                                   
-                 mm   mm   m mmmm  
-                 ##   #"m  # #   "m
-                #  #  # #m # #    #
-                #mm#  #  # # #    #
-               #    # #   ## #mmm" 
-                                   
-                                   
-                                                        
-m     m   mm   mm   m mmmm   mmmmmm mmmmm  mmmmmm mmmmm 
-#  #  #   ##   #"m  # #   "m #      #   "# #      #   "#
-" #"# #  #  #  # #m # #    # #mmmmm #mmmm" #mmmmm #mmmm"
- ## ##"  #mm#  #  # # #    # #      #   "m #      #   "m
- #   #  #    # #   ## #mmm"  #mmmmm #    " #mmmmm #    "
+m     m mmmmmm mmmmm  mmmmmmm     m  mmmm  m      m    m mmmmmm  mmmm 
+#  #  # #      #   "# #     #  #  # m"  "m #      "m  m" #      #"   "
+" #"# # #mmmmm #mmmm" #mmmmm" #"# # #    # #       #  #  #mmmmm "#mmm 
+ ## ##" #      #   "m #      ## ##" #    # #       "mm"  #          "#
+ #   #  #mmmmm #    " #mmmmm #   #   #mm#  #mmmmm   ##   #mmmmm "mmm#"
+                                                                      
+                                                                      
+                                          
+                                        # 
+                       mmm   m mm    mmm# 
+                      "   #  #"  #  #" "# 
+                      m"""#  #   #  #   # 
+                      "mm"#  #   #  "#m## 
+                                          
+                                          
+                                                               
+       m     m   mm   mm   m mmmm   mmmmmm mmmmm  mmmmmm mmmmm 
+       #  #  #   ##   #"m  # #   "m #      #   "# #      #   "#
+       " #"# #  #  #  # #m # #    # #mmmmm #mmmm" #mmmmm #mmmm"
+        ## ##"  #mm#  #  # # #    # #      #   "m #      #   "m
+        #   #  #    # #   ## #mmm"  #mmmmm #    " #mmmmm #    "
 
 
 `

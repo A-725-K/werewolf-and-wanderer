@@ -1,4 +1,4 @@
-# werewolf-and-wanderer
+# werewolves-and-wanderer
 
 <img src="img/w-and-w.jpg" style="width: auto" alt="Werewolf at night" />
 
@@ -19,8 +19,8 @@ period.
 How to build and play the game:
 
 ```bash
-git clone git@github.com:A-725-K/werewolf-and-wanderer.git
-cd werewolf-and-wanderer
+git clone git@github.com:A-725-K/werewolves-and-wanderer.git
+cd werewolves-and-wanderer
 just build
 just play
 ```
